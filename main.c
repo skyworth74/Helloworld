@@ -2,5 +2,10 @@
 int main(void)
 {
     printf("helloworld\r\n");
-return 1;
+    printf("----------------------------------------\r\n");
+    printf("--                                    --\r\n");
+    printf("--                                    --\r\n");
+    printf("--                                    --\r\n");
+    printf("----------------------------------------\r\n");
+    return 1;
 }
