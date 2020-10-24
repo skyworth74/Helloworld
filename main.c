@@ -1,6 +1,11 @@
 #include "stdio.h"
 int main(void)
 {
-
-return 1;
+    printf("helloworld\r\n");
+    printf("----------------------------------------\r\n");
+    printf("--                                    --\r\n");
+    printf("--                                    --\r\n");
+    printf("--                                    --\r\n");
+    printf("----------------------------------------\r\n");
+    return 1;
 }
