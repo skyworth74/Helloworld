@@ -16,5 +16,10 @@ int main(void)
     for (i=0;i<10;i++){
          j=(j+1)%10;   
     }
+    while(1){
+        printf("0x%2x\r\n",circlebuf[i]);
+        i=(i+1)%12;
+
+    }
     return 1;
 }
